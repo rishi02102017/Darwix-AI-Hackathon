@@ -3,7 +3,7 @@
 <h1 align="center">Darwix AI Hackathon Submission</h1>
 
 <p align="center">
-  <img src="ONNX_Banner.png" alt="ONNX Logo" width="500"/>
+  <img src="darwix_ai_logo.jpg" alt="Darwix AI Logo" width="500"/>
 </p>
 
 Welcome to the submission for the **Darwix AI Hackathon**!  
