@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore Django SQLite DBs
+*.sqlite3
+
+#  Ignore your secrets
+.env
+
+# Ignore VS Code settings (optional)
+.vscode/
