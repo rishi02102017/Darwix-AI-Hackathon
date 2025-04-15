@@ -162,6 +162,9 @@ darwix_project/
 ├── manage.py
 ├── .env.example
 ├── .gitignore
+├── OSR_us_000_0013_8k   .wav audio file
+├── OSR_us_000_0010_8k   .wav audio file
+
 ```
 
 ---
