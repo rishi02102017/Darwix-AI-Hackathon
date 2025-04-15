@@ -171,7 +171,7 @@ darwix_project/
 ####  Sample Output – Multi-Speaker Transcription
 Below is a screenshot showing the diarized transcription response from `/transcribe-audio/`:
 
-![Transcription with Diarization](Transcription%20Screenshot%20.png)
+![Transcription with Diarization](Transcription.png)
 
 
 ####  Sample Output – Suggested Titles
