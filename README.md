@@ -11,7 +11,7 @@ This project showcases the integration of **AI-powered transcription with speake
 
 ---
 
-## ✨ Features at a Glance
+##  Features at a Glance
 
 | Feature                            | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ This project showcases the integration of **AI-powered transcription with speake
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - **Python 3.10**
 - **Django 5.2**
@@ -35,9 +35,9 @@ This project showcases the integration of **AI-powered transcription with speake
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
-### 🔧 Environment Setup
+###  Environment Setup
 
 ```bash
 git clone https://github.com/rishi02102017/Darwix-AI-Hackathon.git
@@ -61,7 +61,7 @@ OPENAI_API_KEY=your_openrouter_key_here
 
 ---
 
-### 🧠 Run the Django App
+###  Run the Django App
 
 ```bash
 python manage.py migrate
@@ -75,9 +75,9 @@ Starting development server at http://127.0.0.1:8000/
 
 ---
 
-## 📡 API Usage Guide
+##  API Usage Guide
 
-### 🎙️ /transcribe/ (POST)
+###  /transcribe/ (POST)
 
 Upload a `.wav` file and get a transcript with speaker labels.
 
@@ -106,7 +106,7 @@ Upload a `.wav` file and get a transcript with speaker labels.
 
 ---
 
-### ✍️ /suggest-titles/ (POST)
+###  /suggest-titles/ (POST)
 
 Suggest 3 catchy titles based on blog content.
 
@@ -131,7 +131,7 @@ Suggest 3 catchy titles based on blog content.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Use this script to test `/transcribe/` via Python:
 
@@ -168,11 +168,17 @@ darwix_project/
 
 ## 📸 Screenshots
 
-### Transcription Output:
-![Transcription Output](transcription_output.png)
+####  Sample Output – Multi-Speaker Transcription
+Below is a screenshot showing the diarized transcription response from `/transcribe-audio/`:
 
-### Title Suggestion Output:
-![Title Suggestion Output](title_suggestion_output.png)
+![Transcription with Diarization](Transcription%20Screenshot%20.png)
+
+
+####  Sample Output – Suggested Titles
+Below is a screenshot of the generated blog titles using the `/suggest-titles/` endpoint:
+
+![Suggested Titles](title_suggestion_output.png)
+
 
 ---
 
@@ -186,12 +192,15 @@ darwix_project/
 
 ## 👨‍💻 Author
 
-**Rishi Kashyap**  
-🔗 [GitHub Profile](https://github.com/rishi02102017)
+**Jyotishman Das**  
+M.Tech Artificial Intelligence – IIT Jodhpur  
+
+- [Portfolio](https://my-portfolio-jyotishman-das-projects.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/jyotishmandas85p/)
 
 ---
 
-## ✅ Submission Checklist
+## Submission Checklist
 
 - [x] Audio Transcription Endpoint
 - [x] Speaker Diarization
