@@ -10,6 +10,12 @@
   <img src="darwix_ai.png" alt="Darwix AI Logo" width="500"/>
 </p>
 
+<p align="center">
+  <img src="darwix_ai_logo.jpg" alt="Darwix AI Logo" width="45%" />
+  <img src="darwix_ai.png" alt="Darwix AI task" width="45%" />
+</p>
+
+
 Welcome to the submission for the **Darwix AI Hackathon**!  
 This project showcases the integration of **AI-powered transcription with speaker diarization** and **LLM-based blog title generation** inside a clean Django backend application.
 
