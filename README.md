@@ -18,7 +18,7 @@ This project showcases the integration of **AI-powered transcription with speake
 | Feature                            | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
 | 🎙️ Audio Transcription             | Transcribe audio files into text using Whisper.                             |
-| 🧑‍🤝‍🧑 Speaker Diarization           | Identify "who spoke when" with Resemblyzer.                                 |
+| 🧑‍🤝‍🧑 Speaker Diarization             | Identify "who spoke when" with Resemblyzer.                                 |
 | 📝 Blog Title Suggestions          | Generate catchy blog titles using OpenRouter's Mistral-7B model.            |
 | 🔐 Secure API Key Management       | Secrets stored using environment variables and `python-dotenv`.             |
 | 🚀 REST API Integration            | Easy-to-use API endpoints with clean JSON responses.                        |
