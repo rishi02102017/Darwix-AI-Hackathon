@@ -169,10 +169,10 @@ darwix_project/
 ## 📸 Screenshots
 
 ### Transcription Output:
-![Transcription Output](screenshots/transcription_output.png)
+![Transcription Output](transcription_output.png)
 
 ### Title Suggestion Output:
-![Title Suggestion Output](screenshots/title_suggestion_output.png)
+![Title Suggestion Output](title_suggestion_output.png)
 
 ---
 
